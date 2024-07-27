@@ -18,7 +18,7 @@
 
 ### 📫 How to reach me ...
 - LinkedIn: [Gourav Kumar](https://www.linkedin.com/in/gourav-kumar-46151a216/)
-- Email: gouravk08@gmail.com
+- Email: gouravk0801@gmail.com
 - GitHub: [@Gouravkumar08](https://github.com/Gouravkumar08)
 
 ### 😄 Pronouns: He/Him
