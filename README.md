@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Gouravkumar08
+## 👋 Hi, I’m Gourav 
 
 ### 👀 I’m interested in ...
 - Full-stack development
