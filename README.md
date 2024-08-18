@@ -8,7 +8,6 @@
  I’m currently learning ...
 - Advanced Java programming
 - Spring Boot
-- React.js
 - JavaScript, HTML, and CSS
 
  I’m looking to collaborate on ...
