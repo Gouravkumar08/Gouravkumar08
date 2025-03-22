@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on fitguysweb.online<br>🌱 I’m currently learning React<br>💬 Ask me about Spring boot and Java
+🔭 I’m currently working on fitguysweb.online<br>🌱 I’m currently learning System Design <br>💬 Ask me about Spring boot and Java
 
 
 ## 🌐 Socials:
