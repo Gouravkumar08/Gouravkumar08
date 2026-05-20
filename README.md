@@ -4,8 +4,7 @@ Software Engineer, building production backend systems with Java and Spring Boot
 
 - 🏦 Built **[Banking System LLD](https://github.com/Gouravkumar08/Banking-System-LLD)** — design patterns in Java (Strategy, Factory, SOLID)
 - 💼 Built **[FitGuysWeb](https://github.com/Gouravkumar08/Fitguysweb-Backend)** — fitness management REST API with JWT auth
-- 🌱 Currently learning **System Design**
-- 💬 Ask me about **Java, Spring Boot, REST APIs**
+- 💬 Ask me about **Java, Spring Boot, REST APIs, System Design**
 - 📫 Reach me at **gouravkcode08@gmail.com**
 
 ---
