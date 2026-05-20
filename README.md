@@ -6,7 +6,7 @@ Software Engineer, building production backend systems with Java and Spring Boot
 - 💼 Built **[FitGuysWeb](https://github.com/Gouravkumar08/Fitguysweb-Backend)** — fitness management REST API with JWT auth
 - 🌱 Currently learning **System Design**
 - 💬 Ask me about **Java, Spring Boot, REST APIs**
-- 📫 Reach me at **gouravk0801@gmail.com**
+- 📫 Reach me at **gouravkcode08@gmail.com**
 
 ---
 
